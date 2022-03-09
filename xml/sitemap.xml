@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>https://saskaradosavljevic.github.io/cityflower.github.io/index.html</loc>
         <lastmod>2022-03-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>
      <url>
-        <loc></loc>
+        <loc>https://saskaradosavljevic.github.io/cityflower.github.io/shop.html</loc>
         <lastmod>2022-03-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>
      <url>
-        <loc></loc>
-        <lastmod>2022-03-08</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.6</priority>
-    </url>
-     <url>
-        <loc></loc>
+        <loc>https://saskaradosavljevic.github.io/cityflower.github.io/korpa.html</loc>
         <lastmod>2022-02-28</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.4</priority>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+     <url>
+        <loc>https://saskaradosavljevic.github.io/cityflower.github.io/contact.html</loc>
+        <lastmod>2022-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
     </url>
 </urlset>
