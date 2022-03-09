@@ -56,7 +56,7 @@ var bojaIzabrana=false;
 var filter=false;
 
 window.onload=function(){
-    //var url=window.location.pathname;
+    var url=window.location.hostname;
 
     ajaxCallBack("nav",function(result){
         ispisNav(result);
@@ -64,7 +64,7 @@ window.onload=function(){
     
     stampajBrojElKorpe();
 
-    if("https://saskaradosavljevic.github.io/cityflower.github.io/index.html"){
+    if(url=="https://saskaradosavljevic.github.io/cityflower.github.io/index.html"){
         ajaxCallBack("kat",function(result){
             ispisKategorija(result);
         });
