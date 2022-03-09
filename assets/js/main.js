@@ -56,15 +56,15 @@ var bojaIzabrana=false;
 var filter=false;
 
 window.onload=function(){
-    var url=window.location.hostname;
-    console.log(url);
+    var url=window.location.href;
+
     ajaxCallBack("nav",function(result){
         ispisNav(result);
     });
     
     stampajBrojElKorpe();
 
-    if(url=="saskaradosavljevic.github.io" || url=="cityflower.github.io/index.html"){
+    if(url=="/cityflower.github.io/index.html"){
         ajaxCallBack("kat",function(result){
             ispisKategorija(result);
         });
@@ -75,7 +75,7 @@ window.onload=function(){
             ispisProizvoda(result,"prProizvodi");
         });
     }
-     if(url=="saskaradosavljevic.github.io" || url=="cityflower.github.io/shop.html"){
+    if(url=="/cityflower.github.io/shop.html"){
         ajaxCallBack("kat", function(result){
             kreirajPadajuciListu(result,"Kategorija","listaKategorije");
         })
@@ -137,10 +137,10 @@ window.onload=function(){
             sortiranje(idSort,"cena");
         });
     }
-    if( if(url=="saskaradosavljevic.github.io" || url=="cityflower.github.io/contact.html")){
+    if(url=="/cityflower.github.io/contact.html"){
         $(document).on('click','#btnPosalji',provera);
     }
-    if( if(url=="saskaradosavljevic.github.io" || url=="cityflower.github.io/korpa.html")){
+    if(url=="/cityflower.github.io/korpa.html"){
         var proizvodiLsKorpa=getItemFromLocalStorage("nizProizvodaUKorpi");
 
         if(proizvodiLsKorpa==null || proizvodiLsKorpa.length==0){
