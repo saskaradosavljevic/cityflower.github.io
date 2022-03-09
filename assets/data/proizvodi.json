@@ -1,0 +1,496 @@
+[
+    {
+        "id":1,
+        "naziv":"Ljubičasta elegancija",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[2],
+        "cena": 2300,
+        "slika":{
+            "src":"assets/img/b2.jpg",
+            "alt":"Buket 1"
+        }
+    },
+    {
+        "id":2,
+        "naziv":"Plava orhideja",
+        "idKat":[3],
+        "idVrste":[5],
+        "boja":[2],
+        "cena": 2450,
+        "slika":{
+            "src":"assets/img/s.jpg",
+            "alt":"Sobno cvece 1"
+        }
+    },
+    {
+        "id":3,
+        "naziv":"Royal Box",
+        "idKat":[1],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 7700,
+        "slika":{
+            "src":"assets/img/fb1.jpg",
+            "alt":"Flower box 1"
+        }
+    },
+    {
+        "id":4,
+        "naziv":"Ferrero buket",
+        "idKat":[2],
+        "idVrste":[1],
+        "boja":[1],
+        "cena": 4000,
+        "slika":{
+            "src":"assets/img/b6.jpg",
+            "alt":"Buket 2"
+        }
+    },
+    {
+        "id":5,
+        "naziv":"Najveći buket",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 12900,
+        "slika":{
+            "src":"assets/img/b7.jpg",
+            "alt":"Buket 3"
+        }
+    },
+    {
+        "id":6,
+        "naziv":"Šareni anđeo",
+        "idKat":[1],
+        "idVrste":[1],
+        "boja":[1],
+        "cena": 8450,
+        "slika":{
+            "src":"assets/img/fb8.jpg",
+            "alt":"Flower box 2"
+        }
+    },
+    {
+        "id":7,
+        "naziv":"Mini ljubav",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 2700,
+        "slika":{
+            "src":"assets/img/b1.jpg",
+            "alt":"Buket 4"
+        }
+    },
+    {
+        "id":8,
+        "naziv":"Vriseja",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[5],
+        "cena": 950,
+        "slika":{
+            "src":"assets/img/s1.jpg",
+            "alt":"Sobno cvece 2"
+        }
+    },
+    {
+        "id":9,
+        "naziv":"Monstera",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[3],
+        "cena": 1550,
+        "slika":{
+            "src":"assets/img/s3.jpg",
+            "alt":"Sobno cvece 3"
+        }
+    },
+    {
+        "id":10,
+        "naziv":"Nežni zagrljaj",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[4],
+        "cena": 3400,
+        "slika":{
+            "src":"assets/img/b3.jpg",
+            "alt":"Buket 5"
+        }
+    },
+    {
+        "id":11,
+        "naziv":"Orhideje i ruže box",
+        "idKat":[1],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 4490,
+        "slika":{
+            "src":"assets/img/fb2.jpg",
+            "alt":"Flower box 3"
+        }
+    },
+    {
+        "id":12,
+        "naziv":"Romantična duša",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[5],
+        "cena": 1900,
+        "slika":{
+            "src":"assets/img/b8.jpg",
+            "alt":"Buket 6"
+        }
+    },
+    {
+        "id":13,
+        "naziv":"Fikus Bendžamin",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[3],
+        "cena": 950,
+        "slika":{
+            "src":"assets/img/s2.jpg",
+            "alt":"Sobno cvece 4"
+        }
+    },
+    {
+        "id":14,
+        "naziv":"Buket crvenih ruža",
+        "idKat":[2],
+        "idVrste":[1],
+        "boja":[5],
+        "cena": 1990,
+        "slika":{
+            "src":"assets/img/b4.jpg",
+            "alt":"Buket 7"
+        }
+    },
+    {
+        "id":15,
+        "naziv":"Fišek buket",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 3200,
+        "slika":{
+            "src":"assets/img/b5.jpg",
+            "alt":"Buket 8"
+        }
+    },
+    {
+        "id":16,
+        "naziv":"Plavi box",
+        "idKat":[1],
+        "idVrste":[1],
+        "boja":[2],
+        "cena": 5800,
+        "slika":{
+            "src":"assets/img/fb12.jpg",
+            "alt":"Flower box 4"
+        }
+    },
+    {
+        "id":17,
+        "naziv":"Kordilina",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[1],
+        "cena": 950,
+        "slika":{
+            "src":"assets/img/s4.jpg",
+            "alt":"Sobno cvece 5"
+        }
+    },
+    {
+        "id":18,
+        "naziv":"Oversize buket",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 4800,
+        "slika":{
+            "src":"assets/img/b9.jpg",
+            "alt":"Buket 9"
+        }
+    },
+    {
+        "id":19,
+        "naziv":"Purple Queen",
+        "idKat":[1],
+        "idVrste":[5],
+        "boja":[1], 
+        "cena": 3900,
+        "slika":{
+            "src":"assets/img/fb3.jpg",
+            "alt":"Flower box 5"
+        }
+    },
+    {
+        "id":20,
+        "naziv":"Nežni buket",
+        "idKat":[2],
+        "idVrste":[1],
+        "boja":[1],
+        "cena": 3800,
+        "slika":{
+            "src":"assets/img/preporuceno2.jpg",
+            "alt":"Buket 10"
+        }
+    },
+    {
+        "id":21,
+        "naziv":"Anturijum",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[5],
+        "cena": 1690,
+        "slika":{
+            "src":"assets/img/s5.jpg",
+            "alt":"Sobno cvece 6"
+        }
+    },
+    {
+        "id":22,
+        "naziv":"Beskonačna ljubav",
+        "idKat":[1],
+        "idVrste":[1],
+        "boja":[5],
+        "cena": 10900,
+        "slika":{
+            "src":"assets/img/fb7.png",
+            "alt":"Flower box 6"
+        }
+    },
+    {
+        "id":23,
+        "naziv":"Prolećni buket",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 3000,
+        "slika":{
+            "src":"assets/img/preporuceno3.jpg",
+            "alt":"Buket 11"
+        }
+    },
+    {
+        "id":24,
+        "naziv":"Šeflera",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[3],
+        "cena": 900,
+        "slika":{
+            "src":"assets/img/s6.jpg",
+            "alt":"Sobno cvece 7"
+        }
+    },
+    {
+        "id":25,
+        "naziv":"Box sa lalama i vinom",
+        "idKat":[1],
+        "idVrste":[4],
+        "boja":[4],
+        "cena": 2650,
+        "slika":{
+            "src":"assets/img/fb11.jpg",
+            "alt":"Flower box 7"
+        }
+    },
+    {
+        "id":26,
+        "naziv":"Buket ljubavi",
+        "idKat":[2],
+        "idVrste":[1],
+        "boja":[5],
+        "cena": 5500,
+        "slika":{
+            "src":"assets/img/preporuceno4.png",
+            "alt":"Buket 12"
+        }
+    },
+    {
+        "id":27,
+        "naziv":"Gipsofila u boji",
+        "idKat":[1],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 2500,
+        "slika":{
+            "src":"assets/img/fb4.jpg",
+            "alt":"Flower box 8"
+        }
+    },
+    {
+        "id":28,
+        "naziv":"Limeta Box",
+        "idKat":[1],
+        "idVrste":[1],
+        "boja":[2],
+        "cena": 4450,
+        "slika":{
+            "src":"assets/img/fb6.jpg",
+            "alt":"Flower box 9"
+        }
+    },
+    {
+        "id":29,
+        "naziv":"XL Buket",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 5600,
+        "slika":{
+            "src":"assets/img/b10.jpg",
+            "alt":"Buket 13"
+        }
+    },
+    {
+        "id":30,
+        "naziv":"Baby Box",
+        "idKat":[1],
+        "idVrste":[1],
+        "boja":[1],
+        "cena": 7700,
+        "slika":{
+            "src":"assets/img/preporuceno1.png",
+            "alt":"Flower box 10"
+        }
+    },
+    {
+        "id":31,
+        "naziv":"Bela orhideja",
+        "idKat":[3],
+        "idVrste":[5],
+        "boja":[4],
+        "cena": 2390,
+        "slika":{
+            "src":"assets/img/s7.jpg",
+            "alt":"Sobno cvece 8"
+        }
+    },
+    {
+        "id":32,
+        "naziv":"XXL Buket",
+        "idKat":[2],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 8900,
+        "slika":{
+            "src":"assets/img/b11.jpg",
+            "alt":"Buket 14"
+        }
+    },
+    {
+        "id":33,
+        "naziv":"I love you ploča",
+        "idKat":[1],
+        "idVrste":[1],
+        "boja":[5],
+        "cena": 9500,
+        "slika":{
+            "src":"assets/img/fb9.jpg",
+            "alt":"Flower box 11"
+        }
+    },
+    {
+        "id":34,
+        "naziv":"Kutija sreće",
+        "idKat":[1],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 2900,
+        "slika":{
+            "src":"assets/img/fb10.jpg",
+            "alt":"Flower box 12"
+        }
+    },
+    {
+        "id":35,
+        "naziv":"Buket gerbera",
+        "idKat":[2],
+        "idVrste":[2],
+        "boja":[1],
+        "cena": 4900,
+        "slika":{
+            "src":"assets/img/b12.jpg",
+            "alt":"Buket 15"
+        }
+    },
+    {
+        "id":36,
+        "naziv":"Palma Kencija",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[3],
+        "cena": 6490,
+        "slika":{
+            "src":"assets/img/s8.jpg",
+            "alt":"Sobno cvece 9"
+        }
+    },
+    {
+        "id":37,
+        "naziv":"Kroton",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[3],
+        "cena": 890,
+        "slika":{
+            "src":"assets/img/s9.jpg",
+            "alt":"Sobno cvece 10"
+        }
+        
+    },
+    {
+        "id":38,
+        "naziv":"Buket lala",
+        "idKat":[2],
+        "idVrste":[4],
+        "boja":[4],
+        "cena": 1790,
+        "slika":{
+            "src":"assets/img/b13.jpg",
+            "alt":"Buket 16"
+        }
+    },
+    {
+        "id":39,
+        "naziv":"Suncokret buket",
+        "idKat":[2],
+        "idVrste":[3],
+        "boja":[4],
+        "cena": 2890,
+        "slika":{
+            "src":"assets/img/b15.jpg",
+            "alt":"Buket 17"
+        }
+    },
+    {
+        "id":40,
+        "naziv":"Kordilina Australijska",
+        "idKat":[3],
+        "idVrste":[7],
+        "boja":[3],
+        "cena": 1290,
+        "slika":{
+            "src":"assets/img/s10.png",
+            "alt":"Sobno cvece 11"
+        }
+    },
+    {
+        "id":41,
+        "naziv":"Za nju box",
+        "idKat":[1],
+        "idVrste":[6],
+        "boja":[1],
+        "cena": 4850,
+        "slika":{
+            "src":"assets/img/fb5.jpg",
+            "alt":"Flower box 13"
+        }
+    }
+
+]

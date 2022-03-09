@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "naziv":"Flower box",
+        "slika":{
+            "src":"assets/img/cvece2.png",
+            "alt":"Flower-box"
+        },
+        "opis":"Kupujte sa stilom"
+
+    },
+    {
+        "id":2,
+        "naziv":"Buketi",
+        "slika":{
+            "src":"assets/img/cvece1.png",
+            "alt":"Buket"
+        },
+        "opis":"Sva ljubav u jednom buketu"
+    },
+    {
+        "id":3,
+        "naziv":"Sobno cveće",
+        "slika":{
+            "src":"assets/img/cvece3.png",
+            "alt":"Sobno cvece"
+        },
+        "opis":"Ulepšajte Vaš dom"
+    }
+]

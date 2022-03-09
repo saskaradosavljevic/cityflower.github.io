@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "naziv":"Cena - rastuce"
+    },
+    {
+        "id":2,
+        "naziv":"Cena - opadajuce"
+    },
+    {
+        "id":3,
+        "naziv":"Naziv - rastuce"
+    },
+    {
+        "id":4,
+        "naziv":"Naziv - opadajuce "
+    }
+]

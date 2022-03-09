@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "naziv":"Ruža"
+    },
+    {
+        "id":2,
+        "naziv":"Gerber"
+    },
+    {
+        "id":3,
+        "naziv":"Suncokret"
+    },
+    {
+        "id":4,
+        "naziv":"Lala"
+    },
+    {
+        "id":5,
+        "naziv":"Orhideja"
+    },
+    {
+        "id":6,
+        "naziv":"Šarenoliko cveće"
+    },
+    {
+        "id":7,
+        "naziv":"Ostalo"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id":30,
+        "naziv":"Ružičasti box",
+        "cena":4600,
+        "idKat":[1],
+        "slika":{
+            "src":"assets/img/preporuceno1.png",
+            "alt":"Preporuceno 1"
+        }
+    },
+    {
+        "id":20,
+        "naziv":"Nežni buket",
+        "cena":3800,
+        "idKat":[2],
+        "slika":{
+            "src":"assets/img/preporuceno2.jpg",
+            "alt":"Preporuceno 2"
+        }
+    },
+    {
+        "id":23,
+        "naziv":"Prolećni buket",
+        "cena":3000,
+        "idKat":[2],
+        "slika":{
+            "src":"assets/img/preporuceno3.jpg",
+            "alt":"Peporuceno 3"
+        }
+    },
+    {
+        "id":26,
+        "naziv":"Buket ljubavi",
+        "cena":5500,
+        "idKat":[2],
+        "slika":{
+            "src":"assets/img/preporuceno4.png",
+            "alt":"Preporuceno 4"
+        }
+    }
+]

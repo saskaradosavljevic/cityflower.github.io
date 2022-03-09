@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "naziv":"Dostava istog dana",
+        "opis":"Dostavu vršimo istog dana. U roku sat vremena od poručivanja stiže na traženu adresu.",
+        "slika":{
+            "src":"assets/img/delivery.png",
+            "alt":"Dostava"
+        }
+    },
+    {
+        "id":2,
+        "naziv":"Prenosimo poruku",
+        "opis":"Ako želite da bude još emotivnije, uz naručeno cveće prenosimo i Vašu poruku.",
+        "slika":{
+            "src":"assets/img/letter.png",
+            "alt":"Poruka"
+        }
+    },
+    {
+        "id":3,
+        "naziv":"To što vidiš - to dobiješ",
+        "opis":"Sviđaju vam se buketi koje vidite kod nas na sajtu? Ne brinite, isti takvi stižu na vašu adresu.",
+        "slika":{
+            "src":"assets/img/eye.png",
+            "alt":"Oko"
+        }
+    }
+
+]

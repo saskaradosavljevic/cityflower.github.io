@@ -1,0 +1,22 @@
+[
+    {
+        "href":"index.html",
+        "textLink":"Početna",
+        "nacin":"_self"
+    },
+    {
+        "href":"shop.html",
+        "textLink":"Cveće",
+        "nacin":"_self"
+    },
+    {
+        "href":"contact.html",
+        "textLink":"Kontakt",
+        "nacin":"_self"
+    },
+    {
+        "href":"https://saskaradosavljevic.github.io/portfolio.github.io/",
+        "textLink":"Autor",
+        "nacin":"_blank"
+    }
+]

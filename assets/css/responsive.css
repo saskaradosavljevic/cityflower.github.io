@@ -1,0 +1,101 @@
+@media screen and (max-width: 1200px){
+    .opis h4{
+        font-size: 21px;
+    }
+    #p h4{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 991px){
+    #p img{
+        width: 270px;
+    }
+    #p button{
+        width: 40%;
+    }
+    #sadrzaj{
+        margin-left: 0%;
+    }
+}
+@media screen and (max-width: 992px){
+    .centered h1{
+        font-size: 45px;
+    }
+    .centered h2{
+        font-size: 30px;
+    }
+    .centered p{
+        font-size: 18px;
+    }
+    .usluga{
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 985px){
+    #b img{
+        width: 300px;
+        height: 300px;
+    }
+}
+@media screen and (max-width: 921px) {
+    .k{
+        margin-left: 25%;
+    }
+}
+@media screen and (max-width: 769px) {
+    .lista{
+        margin-bottom: 5px;
+    }
+}
+@media screen and (max-width: 670px){
+    .centered h1{
+        font-size: 43px;
+    }
+    .centered h2{
+        font-size: 27px;
+    }
+    .centered p{
+        font-size: 17px;
+    }
+    .centered a{
+        font-size: 16px;
+    }
+    #backGround img{
+        height: 370px;
+    }
+    .naslov h2{
+        font-size: 27px;
+    }
+}
+@media screen and (max-width: 590px) {
+    .k{
+        margin-left: 16%;
+    }
+    #radno-vreme h4 {
+        font-size: 20px;
+    }
+    #ikonice h4{
+        font-size: 20px;
+    }
+    #radno-vreme p{
+        font-size: 15px;
+    }
+    #ikonice p{
+        font-size: 15px;
+    }
+    #copy p{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 497px) {
+    .k{
+        margin-left: 12%;
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 366px) {
+    .k{
+        margin-left: 8%;
+        font-size: 24px;
+    }
+}
