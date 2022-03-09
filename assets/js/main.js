@@ -57,7 +57,7 @@ var filter=false;
 
 window.onload=function(){
     var url=window.location.hostname;
-
+    console.log(url);
     ajaxCallBack("nav",function(result){
         ispisNav(result);
     });
