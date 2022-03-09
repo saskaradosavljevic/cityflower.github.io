@@ -64,7 +64,7 @@ window.onload=function(){
     
     stampajBrojElKorpe();
 
-    if(url=="https://saskaradosavljevic.github.io/cityflower.github.io/index.html"){
+    if(url=="saskaradosavljevic.github.io/cityflower.github.io/index.html"){
         ajaxCallBack("kat",function(result){
             ispisKategorija(result);
         });
