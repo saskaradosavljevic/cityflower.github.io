@@ -476,10 +476,7 @@ function sortiranje(id, svojstvo){
             }
         });
     }
-    else{
-        proizvodiLS=getItemFromLocalStorage("proizvodiNiz")
-    }
-
+    
     ispisProizvoda(proizvodiLS, "proizvodi");
 }
 //funkcija za proveru forme
